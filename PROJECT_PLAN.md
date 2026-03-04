@@ -1,5 +1,27 @@
 # Star.Orum - Project Plan
 
+## Tools & Services Required
+
+### Core Platform
+- **N8N** - Workflow automation and orchestration
+- **GitHub** - Version control
+
+### Telephony & Communication
+- **Twilio** - Voice API, call recording, webhooks
+
+### Data & Storage
+- **Google Sheets** - Database (leads, calls, campaigns)
+- **Google Drive** - Call recording storage
+- **Google Appsheet** - User interface and mobile access
+
+### CRM Integration
+- **Twenty CRM** - Open-source CRM (activities, contacts)
+
+### AI & Processing (Phase 3)
+- **OpenAI/Claude APIs** - Call summary generation
+
+---
+
 ## MVP Scope (Phase 1)
 
 ### Core Functionality
